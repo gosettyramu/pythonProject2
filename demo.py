@@ -1,6 +1,5 @@
 a=300
 b=400
-print(a+b)
+print(b-a)
 if __name__!="__main__":
-
     print("virat kohli")
